@@ -1,0 +1,17 @@
+{
+  "services": {
+    "diamond-caption": {
+      "port": 3000,
+      "enabled": true
+    },
+    "gossamer-condition": {
+      "port": 3001,
+      "enabled": true
+    }
+  },
+  "portRange": {
+    "start": 3000,
+    "end": 9000
+  },
+  "environment": "development"
+}
